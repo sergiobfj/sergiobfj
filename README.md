@@ -1,3 +1,4 @@
+<!-- Capsule -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEEEEE&height=120&section=header" />
 </p>
@@ -13,19 +14,28 @@
   />
 </p>
 
-<!-- Sobre mim (agora mais próximo do typing) -->
+<!-- Sobre mim -->
 <h2 align="center" style="font-size: 30px; margin-top: -5px;">💻 Sobre mim</h2>
 
-<div align="center" style="font-size: 20px; line-height: 1.8; margin-top: -10px;">
-  <strong>Graduando em Ciência da Computação</strong> — 
-  <a href="https://www.instagram.com/unifavipwyden" target="_blank">UNIFAVIP</a><br>
+<div align="center" style="font-size: 20px; margin-top: -10px;">
 
-  <strong>Técnico em Análise e Desenvolvimento de Sistemas</strong> — 
-  <a href="https://www.instagram.com/etemfl" target="_blank">ETE Ministro Fernando Lyra</a><br>
+  <p style="margin: 0;">
+    <strong>Graduando em Ciência da Computação</strong> — 
+    <a href="https://www.instagram.com/unifavipwyden" target="_blank">UNIFAVIP</a>
+  </p>
 
-  <strong>Auxiliar Administrativo - TI</strong> — 
-  <a href="https://grupovirtron.com/" target="_blank">Grupo Virtron</a><br><br>
+  <p style="margin: 0;">
+    <strong>Técnico em Análise e Desenvolvimento de Sistemas</strong> — 
+    <a href="https://www.instagram.com/etemfl" target="_blank">ETE Ministro Fernando Lyra</a>
+  </p>
+
+  <p style="margin: 0;">
+    <strong>Auxiliar Administrativo - TI</strong> — 
+    <a href="https://grupovirtron.com/" target="_blank">Grupo Virtron</a>
+  </p>
+
 </div>
+
 
 <!-- Linguagens e Tecnologias -->
 <h2 align="center" style="font-size: 30px; margin-top: -10px;">🛠️ Linguagens & Tecnologias</h2>

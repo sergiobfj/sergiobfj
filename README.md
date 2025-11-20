@@ -21,17 +21,19 @@
 
 <div align="center" style="font-size: 20px; margin-top: -10px;">
   <p style="margin: 0;">
-    <strong>Graduando em Ciência da Computação</strong> —
+    <strong>Graduando em Ciência da Computação | </strong> 
     <a href="https://www.instagram.com/unifavipwyden" target="_blank">UNIFAVIP</a>
+    <strong>| [2025 - 2028] </strong>
   </p>
 
   <p style="margin: 0;">
-    <strong>Técnico em Análise e Desenvolvimento de Sistemas</strong> —
+    <strong>Técnico em Análise e Desenvolvimento de Sistemas | </strong> 
     <a href="https://www.instagram.com/etemfl" target="_blank">ETE Ministro Fernando Lyra</a>
+    <strong>| [2022 - 2024] </strong>
   </p>
 
   <p style="margin: 0;">
-    <strong>Auxiliar Administrativo - TI</strong> —
+    <strong>Auxiliar Administrativo - TI | </strong>
     <a href="https://grupovirtron.com/" target="_blank">Grupo Virtron</a>
   </p>
 </div>
@@ -45,8 +47,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="60" />
 </div>

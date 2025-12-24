@@ -46,9 +46,18 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60" />
+  
+  
+
+
+  
+  
 </div>
 
 <!-- Contato -->

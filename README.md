@@ -33,7 +33,7 @@
   </p>
 
   <p style="margin: 0;">
-    <strong>Auxiliar Administrativo - TI | </strong>
+    <strong>Assistente Administrativo - TI | </strong>
     <a href="https://grupovirtron.com/" target="_blank">Grupo Virtron</a>
   </p>
 </div>

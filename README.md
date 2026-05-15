@@ -65,7 +65,7 @@
 <h2 align="center" style="font-size: 32px; margin-top: 0px;">Contato</h2>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://www.instagram.com/sergio.bfj" target="_blank">
+  <a href="https://https://www.instagram.com/sergiobfj.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:sjunior1557@gmail.com">
+  <a href="mailto:contato.sergiobfj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </div>
